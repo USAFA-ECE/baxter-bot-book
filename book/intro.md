@@ -1,11 +1,8 @@
-# Welcome to your Jupyter Book
+# Welcome to the BAXTER Bot
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+The BAXTER Bot is a two-armed robot donated to DFEC by AFRL.  This book will document the setup and usage of the robot.
 
-Check out the content pages bundled with this sample book to see more.
+This book is built as a Jupyter Book.  Check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
 
 ```{tableofcontents}
 ```
