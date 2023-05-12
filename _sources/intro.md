@@ -36,7 +36,7 @@ USAFA.py written by Cason Couch is a parody of the YMCA dance where BAXTER spell
 5. Run USAFA.py from pycharm
 
 # Notes from working with BAXTER
-- The AFRL zip file has all the documentation that was provided to USAFA from BAXTER's previous owners (AFRL)  highly reccommend reading them in their entirety.
+- The AFRL zip file has all the documentation (see documentation/baxter stuff/USAFA READ ME FIRST) that was provided to USAFA from BAXTER's previous owners (AFRL)  highly reccommend reading them in their entirety.
 - The ros_ws zip file contains the last known 'working' ros workspace in its entierty, a good project may be to update it for python 3 and ROS noetic use.
 - Everything is written in python2 so if you are running python 3 you will have to fix some syntax errors
 - An alternative is to just use the latest version of python 2, which is recommended.
